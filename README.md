@@ -1,1 +1,1 @@
-# Preppin-Data
+# Preppin-Data challenges completed with SQL
